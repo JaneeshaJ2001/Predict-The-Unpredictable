@@ -1,5 +1,5 @@
 # Time-Series-Weather-Prediction
-Predicta 1.0 : Leader Board 4th Place Solution Overview
+Predicta 1.0 : Public leaderboard 4th Place Solution Overview
 
 RMSE Score : 2.4717
 
