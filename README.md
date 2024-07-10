@@ -1,5 +1,5 @@
 # Time-Series-Weather-Prediction
-Predicta 1.0 : Public leaderboard 4th Place Solution Overview
+Predicta 1.0 is an AI prediction challenge competition hosted by the IEEE student branch of the University of Peradeniya. This repository includes my Kaggle submission of task 2 - Time series Prediction, which secured 4th place on the public leaderboard."
 
 RMSE Score : 2.4717
 
